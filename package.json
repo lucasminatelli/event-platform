@@ -2,7 +2,6 @@
   "name": "event-platform",
   "private": true,
   "version": "0.0.0",
-  "homepage": "event-platform/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
